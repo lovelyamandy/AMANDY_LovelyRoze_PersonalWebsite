@@ -1,0 +1,1 @@
+# AMANDY_LovelyRoze_PersonalWebsite
