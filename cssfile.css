@@ -17,9 +17,13 @@ p{
     font-family: kunstler script;
 	color:#873600  ;
 	text-shadow: 5px 5px #E59866;
-	font-size: 100pt;
+	font-size: 125pt;
 	font-weight: bolder;
 	
+	}
+	p.p{
+		font-family: arial;
+		font-size: 20pt;
 	}
 	
 
