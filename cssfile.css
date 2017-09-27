@@ -32,7 +32,11 @@ p{
 		margin-left: 25px;
 	}
 	
-	
+	p.p:hover{
+		color:#E59866;
+		 background-color: Black;
+		 border-color: Black;
+	}
 
 	p.w{
 		
