@@ -24,9 +24,14 @@ p{
 	p.p{
 		font-family: arial;
 		font-size: 20pt;
+		color: Black;
+		text-shadow: none;
 		border: solid;
-		margin-top: -700px;
+		margin-top: -450px;
+		margin-right: 1090px; 
+		margin-left: 25px;
 	}
+	
 	
 
 	p.w{
