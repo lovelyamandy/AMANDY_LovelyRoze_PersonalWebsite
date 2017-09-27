@@ -14,16 +14,18 @@ p{
 	margin-right: 50px;
 	margin-bottom: -5px;
 	text-align: center;
-	font-family: Angeline Vintage;
+    font-family: kunstler script;
 	color:#873600  ;
 	text-shadow: 5px 5px #E59866;
 	font-size: 100pt;
 	font-weight: bolder;
+	
 	}
+	
 
 	p.w{
 		
-		margin-top: -80px;
+		margin-top: 80px;
 		margin-right: 600px;
 		margin-left: 600px;
 		font-family: arial;
@@ -61,12 +63,16 @@ p{
 
 	img.align-center {  display: block;  margin: 0px auto;} 
 	img.medium {  width: 250px;  height: 250px; opacity: 1;} 
-
+	p.one{
+			margin-top: 95px;
+	}
 	p.one:hover{
+
 		color:#E59866;
 		 background-color: Black;
 		 border-color: Black;
 	}	
+
 	p.two{
 		font-family: arial;
 		font-size: 20pt;
@@ -87,23 +93,49 @@ p{
 	
 	
 body.about_body{
-	background-color: #D2B48C;
-	background-image: none;
+	background-color: White;
+	background-image: url("images/woody.jpg");
+	background-repeat: repeat;
 }
 img.im{
-	margin-top: 100px;
-	 margin-left: -150px;
-	 width: 200px;  height: 200px;
-	 border: ridge;
-	 border-color: #F4A460;
-	 border-radius: 95px;
+	border-radius: 40px;
+	border: dashed;
+	border-color: #2F4F4F;
+	 margin-top: -150px;
+	 margin-left: -1050px;
+	 width: 200px;  
+	 height: 200px;
 }
-p.text{
-	margin-top: -80px;
-	margin-left: 200px;
-	font-family: Kristen ITC;
-	color: Chocolate;
-	font-size: 14pt;
+h1{ 
+	background-image: url("images/grid.png");
+	border-radius: 20px;
+	padding-top: 20px;
+	padding-left: 20px;
+	width: 400px;  
+	 height: 400px;
+	background-repeat: no-repeat;
+	margin-top: -150px;
+	margin-left: 300px;
+	font-family: courier new;
+	letter-spacing: 0.01em;
+	color:#2F4F4F;
+	font-size: 12pt;
 	text-shadow: none;
 
 }
+h1.like{ 
+	background-image: url("images/grid.png");
+	
+	width: 400px;  
+	 height: 400px;
+	background-repeat: no-repeat;
+	margin-top: -430px;
+	margin-left: 750px;
+	font-family: courier new;
+	letter-spacing: 0.01em;
+	color:#CD5C5C;
+	font-size: 12pt;
+	text-shadow: none;
+
+}
+
