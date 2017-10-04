@@ -755,3 +755,25 @@ div.home_gallery{
 		color: Black;
 		text-shadow: none;
 	}
+
+	
+	div.note{
+		margin-top: 50px;
+		margin-left: 450px;
+		padding-top: 5px;
+		height: 500px;
+		width: 350px;
+		background-image: url("images/note.jpg");
+	}
+	p.note{
+		margin-top: 50px;
+		font-family: bradley hand ITC;
+		word-spacing: 1em;
+		font-style: italic;
+		color: Black;
+		font-size: 20pt;
+		text-align: justify-all;
+		text-shadow: none;
+	}
+
+	
